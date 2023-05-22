@@ -7,7 +7,7 @@ const New = () => {
     
   return (
     <header>
-      <h1>{ooo}</h1>
+      <h1>{ooo} hi</h1>
     </header>
   )
 }
